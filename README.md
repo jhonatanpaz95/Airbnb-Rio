@@ -19,7 +19,7 @@ Desenvolver um modelo preditivo que possa estimar o preço de imóveis no Airbnb
 3. Modelagem Preditiva:
 - Teste de diferentes algoritmos, como Regressão Linear, Random Forest e Extra Trees, para a construção do modelo.
 - Avaliação dos modelos utilizando métricas de desempenho como RMSE (Root Mean Squared Error).
-- 
+
 4. Visualizações:
 - Utilização de ferramentas como Seaborn e Plotly para criar gráficos interativos e ilustrar os insights obtidos.
 
